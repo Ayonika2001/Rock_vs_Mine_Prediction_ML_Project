@@ -1234,13 +1234,3 @@ else:
     ['R']
     The object is a Rock
     
-
-
-```python
-
-```
-
-
-```python
-
-```
